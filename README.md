@@ -5,13 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshpatilb&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshpatilb" /> </p>
 
-- 🔭 I’m currently working on projects related to RTL Design, Verification, FPGA prototyping of Digital designs ,etc.
+- 🔭 I’m currently working on projects related to RTL Design, Functional and Formal Verification, FPGA prototyping of Digital designs ,etc.
   
 - 👨‍🎓 **Specializing in Digital VLSI.**
 
-- 💬 Ask me about **Verilog, SystemVerilog, RISC-V, Cadence Genus, Cadence Jasper Gold, Xilinx vivado**
+- 💬 Ask me about **Verilog, SystemVerilog, RISC-V, Cadence Jasper Gold, Cadence Genus, Xilinx vivado**
 
 - 📫 How to reach me **rakeshpatil1112369@gmail.com**
+- 📄 My Resume **https://drive.google.com/file/d/1CBDZj70uZW_VhVASF6FUZkr88PM51Yeb/view?usp=drive_link**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
