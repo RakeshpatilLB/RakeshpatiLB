@@ -12,7 +12,7 @@
 - 💬 Ask me about **Verilog, SystemVerilog, RISC-V, Cadence Jasper Gold, Cadence Genus, Xilinx vivado**
 
 - 📫 How to reach me **rakeshpatil1112369@gmail.com**
-- 📄 My Resume **https://drive.google.com/file/d/1CBDZj70uZW_VhVASF6FUZkr88PM51Yeb/view?usp=drive_link**
+- 📄 My Resume **https://drive.google.com/file/d/1TfHgJWrgM931JQrSyR4IJIMIfHIDjBRB/view?usp=drive_link**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
